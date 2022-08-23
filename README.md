@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Kotlin
 
 ## 📫 How to reach me:
-  <a href="https://www.linkedin.com/in/hasan-ak-70192417a/">
+  <a href="https://www.linkedin.com/in/hasanak">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
