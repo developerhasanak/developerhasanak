@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Hasan
 
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Kotlin
